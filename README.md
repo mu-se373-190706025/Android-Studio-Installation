@@ -5,7 +5,7 @@
 
 3-Press the Download Android Studio button.
 
-4-Press the next and then install.
+4-Press next and then install.
 
 5-Press the finish button.
 
